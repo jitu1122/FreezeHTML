@@ -1,5 +1,5 @@
 {
-  "name": "FreezeHTML",
+  "name": "freeze-html",
   "version": "1.0.0",
   "description": "NPM Package for HTMLFreeze",
   "main": "index.js",
