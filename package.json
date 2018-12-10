@@ -1,12 +1,21 @@
 {
   "name": "FreezeHTML",
   "version": "1.0.0",
-  "description": "",
+  "description": "NPM Package for HTMLFreeze",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [Dynamic to static html, static html, freeze html, canvas to svg, canvas freeze],
+  "keywords": [
+    "Dynamic to static html",
+    "static html",
+    "freeze html",
+    "canvas to svg",
+    "canvas freeze"
+  ],
   "author": "Jitendra Singh Chauhan <jittu.cse@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
